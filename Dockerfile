@@ -1,7 +1,7 @@
 
 FROM aquabotwa/sanuwa-official:beta 
 
-RUN git clone https://github.com/diabykavi/queendiabykaviaah /root/queendiana
+RUN git clone https://github.com/ennabamata/alisamagemanalisage /root/queendiana
 WORKDIR /root/queendiana/
 ENV TZ=Asia/Colombo
 RUN yarn add supervisor -g
